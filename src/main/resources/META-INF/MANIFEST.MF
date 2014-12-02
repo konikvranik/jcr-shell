@@ -1,0 +1,2 @@
+Main-Class: net.suteren.jcr.shell.JackrabbitShell
+Bundle-NativeCode: /usr/lib/libncurses.so; osname=Linux; processor=x86, /usr/lib/libc.so; osname=Linux; processor=x86, /usr/lib/libreadline.so; osname=Linux; processor=x86, native/libJavaReadline.so; osname=Linux; processor=x86
